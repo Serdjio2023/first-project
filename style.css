@@ -7,4 +7,6 @@
 .paragraf {
     font-size: 150px;
     color: red;
+    font-family: 'Times New Roman', Times, serif 
+    background-colot:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
