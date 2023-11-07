@@ -1,12 +1,20 @@
 .heading {
-    font: italic;
-    font-size: 200PX;
-    color: red;
+  font: italic;
+  font-size: 200px;
+  color: red;
+}
+
+div {
+  background-color: red;
+  font-size: 400px;
 }
 
 .paragraf {
-    font-size: 150px;
-    color: red;
-    font-family: 'Times New Roman', Times, serif 
-    background-colot:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 150px;
+}
+
+.paragraf2 {
+  font-size: 400px;
+  height: 100%;
+  width: 100%;
 }
